@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{6E36A136-F7DA-490C-A544-2845790BB9A2}|Default">
+  <MonoDevelop.Ide.ItemProperties.PracticalTranslator PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.58374b549ed26c12a3b75b053d84f66db1f71cb2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PracticalTranslator/Translator.cs">
+    <Files>
+      <File FileName="PracticalTranslator/ViewController.cs" Line="67" Column="1" />
+      <File FileName="PracticalTranslator/Recognizer.cs" Line="101" Column="4" />
+      <File FileName="PracticalTranslator/Translator.cs" Line="16" Column="64" />
+      <File FileName="PracticalTranslator/Speech.cs" Line="20" Column="45" />
+      <File FileName="PracticalTranslator/Location.cs" Line="6" Column="11" />
+      <File FileName="PracticalTranslator/Main.cs" Line="12" Column="1" />
+      <File FileName="PracticalTranslator/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
